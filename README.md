@@ -5,6 +5,7 @@
 * ` git add` - adds file that ive changed to the next commit 
 * ` git commit` - Adds all changed files to a commit
 * `git push` - This pushes your commits tpo the server
+* `git clone <url>` - Used to take repos for the first time from github
 
 
 Order I will do things when switching computers:
